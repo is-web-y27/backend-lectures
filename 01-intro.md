@@ -6,7 +6,7 @@
 
 ---
 
-<img src="/assets/image.png" style="width: -webkit-fill-available">
+<img src="assets/image.png" style="width: -webkit-fill-available">
 
 Вот такой непростой бэкенд...
 
